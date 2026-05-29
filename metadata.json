@@ -1,0 +1,6 @@
+{
+  "name": "OMRify",
+  "description": "Convert physical MCQ practice into instantly evaluated digital mock tests using intelligent OCR answer key extraction, beautiful tactile OMR answer bubble sheets, mock and practice modes, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
